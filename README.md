@@ -4,6 +4,14 @@ A curated archive of jailbreak notes, prompt extraction writeups, model-specific
 
 This repository is organized as a practical red-team reference library: vendor-by-vendor jailbreak material, supporting notes on extraction and push prompts, and a growing collection of archived system prompts for comparison and study.
 
+## Original author attribution
+
+This repository is based on, adapted from, or archives material originally associated with **Goochbeater** and the original repository:
+
+- **Original source:** [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+
+Credit for the original research direction, collected material, and much of the source content belongs to the original author and repository.
+
 ---
 
 ## What this repository contains
