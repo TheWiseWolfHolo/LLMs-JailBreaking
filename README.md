@@ -78,4 +78,7 @@ Special thanks to:
 - **u/HORSELOCKSPACEPIRATE**
 - **Lugia19**
 
-Reach me at: [u/Spiritual-Spell-](https://www.reddit.com/u/Spiritual_Spell_9469/s/nufOtv0Vzy)
+Original author links:
+
+- **GitHub:** [Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+- **Reddit:** [u/Spiritual-Spell-](https://www.reddit.com/u/Spiritual_Spell_9469/s/nufOtv0Vzy)
